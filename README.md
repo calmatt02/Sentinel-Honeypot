@@ -63,7 +63,8 @@ height = "60%" width="60%"/>
 
 <h2>Map of Cyber Attacks</h2>
 
-- <b>Made this map with Python and folium library. If you'd like the full interactive map, I've uploaded the full html file.</b>
+- <b>Made this map with Python and folium library. If you'd like the full interactive map, I've uploaded the full html file.
+You can even see the little black splotches near South Korea and Bulgaria. That's because the VM was bombarded with login requests from those two countries. So much so that I've exceeded my limit of free ip address tracking from ipgeolocation. Sadly, after about 12 hours of letting the VM run, the API token rejected any more entries, and so the log formatting broke.</b>
 
 <p align="center">
 <img src = "https://github.com/calmatt02/Sentinel-Honeypot/assets/72759045/e7e07712-e0c3-4c77-aadf-b40ac6d23a44"
