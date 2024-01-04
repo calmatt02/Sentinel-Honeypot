@@ -29,3 +29,13 @@ height = "85%" width="85%"/>
 height = "85%" width="85%"/>
 </p>
 
+<h2>Running the script</h2>
+
+- <b>PowerShell ISE:</b> You can see the two failed attempts in purple! (It was me). The main idea is that, with the help of the ipgeolocation API, we can use the script to extract the ip and add in the funcitonality to to get the longitude and latitude which will come up with the ip addresse's owner's country. We even use the PowerShell script to parse this information, coming up with our own custom log file in the process. Credits to Josh Madakor for this script.
+
+<p align="center">
+<img src = "https://github.com/calmatt02/Sentinel-Honeypot/assets/72759045/a5d67a72-77a2-4d67-9886-7fe87478daab"
+height = "85%" width="85%"/>
+</p>
+
+
