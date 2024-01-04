@@ -61,6 +61,13 @@ height = "60%" width="60%"/>
 height = "60%" width="60%"/>
 </p>
 
+<h2>Map of Cyber Attacks</h2>
 
+- <b>Made this map with Python and folium library. If you'd like the full interactive map, I've uploaded the full html file.</b>
+
+<p align="center">
+<img src = "https://github.com/calmatt02/Sentinel-Honeypot/assets/72759045/e7e07712-e0c3-4c77-aadf-b40ac6d23a44"
+height = "85%" width="85%"/>
+</p>
 
 
