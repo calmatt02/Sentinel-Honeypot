@@ -2,11 +2,11 @@
 <h1> Azure Sentinel w/ Honeypot and Map of Cyber Attacks </h1>
 
 <h2>Breakdown</h2>
-<b>This project allowed me to gain practical knowledge of the cloud computing platform and Sentinel! In this project, 
+This project allowed me to gain practical knowledge of the cloud computing platform and Sentinel! In this project, 
 we use Azure Sentinel and link the SIEM to a virtual machine that we'll also set up. A cool thing about Sentinel:
 it allows for advanced protection, you can fine tune it to your own organization's needs, and there's advanced...unprotection.
 We'll be adding our own inbound rule. The only rule: allow any and all traffic to come in contact in the vm. That's right! This
-virtual machine will act as a honeypot. </b>
+virtual machine will act as a honeypot. 
 <br />
 <br />
 
@@ -63,8 +63,8 @@ height = "60%" width="60%"/>
 
 <h2>Map of Cyber Attacks</h2>
 
-- <b>Made this map with Python and folium library. If you'd like the full interactive map, I've uploaded the full html file.
-You can even see the little black splotches near South Korea and Bulgaria. That's because the VM was bombarded with login requests from those two countries. So much so that I've exceeded my limit of free ip address tracking from ipgeolocation. Sadly, after about 12 hours of letting the VM run, the API token rejected any more entries, and so the log formatting broke.</b>
+- I Made this map with Python and folium library. If you'd like the full interactive map, I've uploaded the full html file.
+You can even see the little black splotches near South Korea and Bulgaria. That's because the VM was bombarded with login requests from those two countries. So much so that I've exceeded my limit of free ip address tracking from ipgeolocation. Sadly, after about 12 hours of letting the VM run, the API token rejected any more entries, and so the log formatting broke.
 
 <p align="center">
 <img src = "https://github.com/calmatt02/Sentinel-Honeypot/assets/72759045/e7e07712-e0c3-4c77-aadf-b40ac6d23a44"
