@@ -9,8 +9,6 @@ We'll be adding our own inbound rule. The only rule: allow any and all traffic t
 virtual machine will act as a honeypot. </b>
 
 <p align="center">
-  
 <img src = "https://github.com/calmatt02/Sentinel-Honeypot/assets/72759045/866f5dc0-3fce-45c7-a11f-7e04ecb3ae04"
 height = "85%" width="85%"/>
-
 </p>
