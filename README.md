@@ -14,3 +14,9 @@ virtual machine will act as a honeypot. </b>
 <img src = "https://github.com/calmatt02/Sentinel-Honeypot/assets/72759045/866f5dc0-3fce-45c7-a11f-7e04ecb3ae04"
 height = "85%" width="85%"/>
 </p>
+
+<h2> Languages Used</h2>
+- <b>PowerShell:</b> We'll be extracting failed logon attempts from Windows Event Viewer, and tracking those attempts with a script that runs on loop.
+
+-<b>Python:</b> We'll want to use the log data from one of our files to come up with a map with heat signatures from countries trying to access our VM. I know Sentinel has the option to create a map using a custom log entry, but if there's a chance to use Python, I'm taking it.
+
