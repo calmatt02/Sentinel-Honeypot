@@ -38,4 +38,29 @@ height = "85%" width="85%"/>
 height = "85%" width="85%"/>
 </p>
 
+<h2>Zero Protection</h2>
+
+- <b>In the VM:</b> Now it's time to turn off the firewalls inside the VM. You can see that right now, when I ping the VM, nothing's really happening. Let's change that.
+
+<p align="center">
+<img src = "https://github.com/calmatt02/Sentinel-Honeypot/assets/72759045/385043af-45be-46b6-a3a7-8987dddc5353"
+height = "60%" width="60%"/>
+</p>
+
+- <b> Letting the guards down!</b>
+
+<p align="center">
+<img src = "https://github.com/calmatt02/Sentinel-Honeypot/assets/72759045/200f4269-264d-4161-adf7-96f062345a5d"
+height = "60%" width="60%"/>
+</p>
+
+- <b> Now we can successfully ping the VM!</b>
+
+<p align="center">
+<img src = "https://github.com/calmatt02/Sentinel-Honeypot/assets/72759045/d24f221b-2920-45a1-8f74-8878be0bdfe7"
+height = "60%" width="60%"/>
+</p>
+
+
+
 
